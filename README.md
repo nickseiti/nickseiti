@@ -3,6 +3,8 @@
 
 I'm Nicholas from Brazil. I work with React, SpringBoot and really enjoy learning new things using technology! Check me out on [Linkedin](https://www.linkedin.com/in/nicholas-seiti-097a19187/) or contact me by [email](nicholasseiti1206@gmail.com)!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nicholas-seiti-097a19187/)](https://www.linkedin.com/in/nicholas-seiti-097a19187/)
+
 ## About me
 * 🖥️ I'm working in IcaroTech as system analyst since 01/01/2022.
 * 🏫 Graduate Computer Science in Unesp "Julio de Mesquita Filho".
